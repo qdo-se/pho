@@ -1,6 +1,7 @@
 * Pho 
 
 This is an instruction to cook 5 liters (about 5.5 quarts) of Pho. 
+
 For about 4 people to feel pretty full.
 
 ** Prerequisites
@@ -9,44 +10,42 @@ For about 4 people to feel pretty full.
 
 **** Spices
 
-Nutmeg: 1 seed
-Cloves: 3-5 pieces
-White peppercorn: 20 seeds
+- Nutmeg: 1 seed
+- Cloves: 3-5 pieces
+- White peppercorn: 20 seeds
 
 **** Vegetables
 
-Onions: 3 medium
-Shallots: 3 small
-Gingers: 2 big
+- Onions: 3 medium
+- Shallots: 3 small
+- Gingers: 2 big
 
 **** Meats
 
-Chuck Roast (Angus Beef)
-Shaved  Steak (Angus Beef)
-Meatball (Angus Beef)
+- Chuck Roast (Angus Beef)
+- Shaved  Steak (Angus Beef)
+- Meatball (Angus Beef)
 
 Note: Preferred Angus Beef for extra flavor
 
 **** Others
 
-Rice noodle (Erawan brands - M size)
-Marrow Bones: 1-2 kg (Preferred thigh bones)
+- Rice noodle (Erawan brands - M size)
+- Marrow Bones: 1-2 kg (Preferred thigh bones)
 
 *** Equipments
 
-10-12 quarts stockpot with glass lid
-    Brand: Cuisinart or Calphalon or T-fal
-    Purpose: Soup broth
+- 10-12 quarts stockpot with glass lid
+    - Brand: Cuisinart or Calphalon or T-fal
+    - Purpose: Soup broth
 
-5-6 quarts stockpot with glass lid
-    Brand: Cuisinart or Calphalon or T-fal
-    Purpose: Slow cook beef chuck
+- 5-6 quarts stockpot with glass lid
+    - Brand: Cuisinart or Calphalon or T-fal
+    - Purpose: Slow cook beef chuck
 
-Micro-perforated Stainless Steel 5-quart Colander
-    Brand: Bellemain
-    Purpose: Rice Noodle strainer
-
-
+- Micro-perforated Stainless Steel 5-quart Colander
+    - Brand: Bellemain
+    - Purpose: Rice Noodle strainer
 
 *** Steps
 
